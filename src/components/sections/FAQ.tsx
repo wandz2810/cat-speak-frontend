@@ -12,23 +12,28 @@ const FAQ = () => {
 
   const faqItems: FAQItem[] = [
     {
-      question: 'Tôi kết nối với người cùng luyện tập như thế nào?'
+      question: 'Tôi kết nối với người cùng level với tôi thế nào?',
+      answer: 'Bạn có thể tìm kiếm và kết bạn với những người dùng có chung sở thích hoặc mục tiêu học tập. Bạn cũng có thể tham gia vào các nhóm học tập cụ thể hoặc các sự kiện do nền tảng tổ chức để gặp gỡ và luyện tập cùng họ.'
     },
     {
-      question: 'Tại cơ thời gian bảo lưu ưu mất'
+      question: 'Làm sao tôi kết nối được với nhiều người?',
+      answer: 'Bạn có thể tham gia vào các cuộc họp nhóm hoặc sự kiện cộng đồng do nền tảng tổ chức. Bên cạnh đó, bạn cũng có thể tự tạo phòng chat riêng và mời bạn bè tham gia để mở rộng mạng lưới kết nối của mình.'
     },
     {
-      question: 'Làm sao tôi kết nối chức với nhóm người?'
+      question: 'Số lượng người trong một group là bao nhiêu?',
+      answer: 'Số lượng người tối đa trong một group chat thường là 5 người. Điều này được thiết kế để đảm bảo mọi người đều có cơ hội nói chuyện và tương tác một cách hiệu quả.'
     },
     {
-      question: 'Tại phần mềm với người quản trị phù hợp thế nào?'
+      question: 'Tôi có thời gian bao lâu để meet?',
+      answer: 'Mỗi cuộc gặp mặt thường kéo dài 15 phút. Đây là khoảng thời gian lý tưởng để bạn luyện tập mà không cảm thấy áp lực. Sau khi hết giờ, hệ thống sẽ tự động ngắt kết nối và bạn có thể bắt đầu một cuộc trò chuyện mới.'
     },
     {
-      question: 'Số lượng người trong một groups là bao nhiêu?'
+      question: 'Tôi phản ánh về người spam tôi như thế nào?',
+      answer: 'Nếu gặp phải người dùng có hành vi spam, bạn hãy sử dụng nút Báo cáo (Report) trên giao diện chat. Nền tảng sẽ tiếp nhận và xử lý báo cáo của bạn một cách nhanh chóng, đồng thời có thể chặn người dùng đó để bảo vệ bạn khỏi những phiền toái tương tự.'
     },
     {
-      question: 'Tại kết nối có giáo viên nào dạy?',
-      answer: 'By the end of this trial lesson, you will be able to: structures for covered numbers this tools of online lessons is eight for you or not. In our experience, most students express this benefits các towards cái after just a few lessons so study online.'
+      question: 'Tôi kết nối với giao viên ở đâu?',
+      answer: 'Để kết nối với giáo viên, bạn có thể sử dụng tính năng Tìm kiếm giáo viên (Find a Teacher) hoặc Đặt lịch học (Book a Lesson) trên nền tảng. Bạn có thể xem hồ sơ của các giáo viên, bao gồm trình độ chuyên môn, kinh nghiệm giảng dạy và đánh giá từ học viên khác. Sau đó, bạn có thể chọn giáo viên phù hợp và đặt lịch học riêng theo thời gian biểu của mình.'
     }
   ];
 
