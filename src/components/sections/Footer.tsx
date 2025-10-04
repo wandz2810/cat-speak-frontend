@@ -32,10 +32,10 @@ const Footer = () => {
               Kết nối với chúng tôi trên mạng xã hội để cập nhật những thông tin mới nhất.
             </p>
             <div className="flex space-x-3">
-              <a href="#" className="w-12 h-12 bg-white text-red-600 rounded-full flex items-center justify-center hover:bg-white/90 transition-all transform hover:scale-110 shadow-lg">
+              <a href="https://www.facebook.com/share/1BYZ14Rshr/" className="w-12 h-12 bg-white text-red-600 rounded-full flex items-center justify-center hover:bg-white/90 transition-all transform hover:scale-110 shadow-lg">
                 <FaFacebookF className="text-xl" />
               </a>
-              <a href="#" className="w-12 h-12 bg-white text-red-600 rounded-full flex items-center justify-center hover:bg-white/90 transition-all transform hover:scale-110 shadow-lg">
+              <a href="https://youtube.com/@cath.languages?si=eR6h5tyPe2nddYjs" className="w-12 h-12 bg-white text-red-600 rounded-full flex items-center justify-center hover:bg-white/90 transition-all transform hover:scale-110 shadow-lg">
                 <FaYoutube className="text-xl" />
               </a>
               <a href="#" className="w-12 h-12 bg-white text-red-600 rounded-full flex items-center justify-center hover:bg-white/90 transition-all transform hover:scale-110 shadow-lg">
