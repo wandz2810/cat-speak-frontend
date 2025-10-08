@@ -10,10 +10,14 @@ Cat_Speak/
 │   ├── components/                  # React components
 │   │   ├── common/                  # Reusable UI components
 │   │   │   ├── Button.tsx          # Button component
-│   │   │   └── Card.tsx            # Card component
+│   │   │   ├── Card.tsx            # Card component
+│   │   │   └── Modal.tsx           # Modal/Dialog component
+│   │   ├── auth/                   # Authentication components
+│   │   │   ├── LoginModal.tsx      # Login popup modal
+│   │   │   └── RegisterModal.tsx   # Register popup modal
 │   │   └── sections/               # Page sections
-│   │       ├── Header.tsx          # Navigation header
-│   │       ├── Hero.tsx            # Hero section with CTA
+│   │       ├── Header.tsx          # Navigation header with auth
+│   │       ├── Hero.tsx            # Hero section with auth CTAs
 │   │       ├── LanguageSelector.tsx # Language selection cards
 │   │       ├── Features.tsx        # Features showcase
 │   │       ├── AILearning.tsx      # AI learning benefits
